@@ -1,14 +1,10 @@
-# Node.js Express template
+# Library Backend
 
-This is a Node.js Express project with an HTTP server.
+Link to Sandbox preview: https://codesandbox.io/p/devbox/trusting-hawking-7xpxdh
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
+## How to run
 
-## How does this work?
-
-We run `yarn start` to start an HTTP server that runs on http://localhost:8080. You can open new or existing devtools with the + button next to the devtool tabs.
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs)
-- [CodeSandbox — Community](https://codesandbox.community)
+In case you haven't installed it yet, run 'npm init' and then 'npm install express'.
+Once it's installed, run 'npm index.js' as you'll see a message in the terminal of the app
+running. Go to a browser and check the app in localhost:3000. From there you can see the 
+responses of the API according to the request.
